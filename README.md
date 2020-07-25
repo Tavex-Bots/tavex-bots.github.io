@@ -1,2 +1,2 @@
-# KrakenOnDiscord.github.io
+# tavex-bots.github.io
 GitHub Pages
